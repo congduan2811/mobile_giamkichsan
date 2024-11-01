@@ -1,0 +1,362 @@
+[
+  {
+    "id": 1,
+    "name": "Giáp Thìn",
+    "code": "Hỏa",
+    "year": 1964
+  },
+  {
+    "id": 2,
+    "name": "Ất Tỵ",
+    "code": "Hỏa",
+    "year": 1965
+  },
+  {
+    "id": 3,
+    "name": "Bính Ngọ",
+    "code": "Thủy",
+    "year": 1966
+  },
+  {
+    "id": 4,
+    "name": "Đinh Mùi",
+    "code": "Thủy",
+    "year": 1967
+  },
+  {
+    "id": 5,
+    "name": "Mậu Thân",
+    "code": "Thổ",
+    "year": 1968
+  },
+  {
+    "id": 6,
+    "name": "Kỷ Dậu",
+    "code": "Thổ",
+    "year": 1969
+  },
+  {
+    "id": 7,
+    "name": "Canh Tuất",
+    "code": "Kim",
+    "year": 1970
+  },
+  {
+    "id": 8,
+    "name": "Tân Hợi",
+    "code": "Kim",
+    "year": 1971
+  },
+  {
+    "id": 9,
+    "name": "Nhâm Tý",
+    "code": "Mộc",
+    "year": 1972
+  },
+  {
+    "id": 10,
+    "name": "Quý Sửu",
+    "code": "Mộc",
+    "year": 1973
+  },
+  {
+    "id": 11,
+    "name": "Giáp Dần",
+    "code": "Thủy",
+    "year": 1974
+  },
+  {
+    "id": 12,
+    "name": "Ất Mão",
+    "code": "Thủy",
+    "year": 1975
+  },
+  {
+    "id": 13,
+    "name": "Bính Thìn",
+    "code": "Thổ",
+    "year": 1976
+  },
+  {
+    "id": 14,
+    "name": "Đinh Tỵ",
+    "code": "Thổ",
+    "year": 1977
+  },
+  {
+    "id": 15,
+    "name": "Mậu Ngọ",
+    "code": "Hỏa",
+    "year": 1978
+  },
+  {
+    "id": 16,
+    "name": "Kỷ Mùi",
+    "code": "Hỏa",
+    "year": 1979
+  },
+  {
+    "id": 17,
+    "name": "Canh Thân",
+    "code": "Mộc",
+    "year": 1980
+  },
+  {
+    "id": 18,
+    "name": "Tân Dậu",
+    "code": "Mộc",
+    "year": 1981
+  },
+  {
+    "id": 19,
+    "name": "Nhâm Tuất",
+    "code": "Thủy",
+    "year": 1982
+  },
+  {
+    "id": 20,
+    "name": "Quý Hợi",
+    "code": "Thủy",
+    "year": 1983
+  },
+  {
+    "id": 21,
+    "name": "Giáp Tý",
+    "code": "Kim",
+    "year": 1984
+  },
+  {
+    "id": 22,
+    "name": "Ất Sửu",
+    "code": "Kim",
+    "year": 1985
+  },
+  {
+    "id": 23,
+    "name": "Bính Dần",
+    "code": "Hỏa",
+    "year": 1986
+  },
+  {
+    "id": 24,
+    "name": "Đinh Mão",
+    "code": "Hỏa",
+    "year": 1987
+  },
+  {
+    "id": 25,
+    "name": "Mậu Thìn",
+    "code": "Mộc",
+    "year": 1988
+  },
+  {
+    "id": 26,
+    "name": "Kỷ Tỵ",
+    "code": "Mộc",
+    "year": 1989
+  },
+  {
+    "id": 27,
+    "name": "Canh Ngọ",
+    "code": "Thổ",
+    "year": 1990
+  },
+  {
+    "id": 28,
+    "name": "Tân Mùi",
+    "code": "Thổ",
+    "year": 1991
+  },
+  {
+    "id": 29,
+    "name": "Nhâm Thân",
+    "code": "Kim",
+    "year": 1992
+  },
+  {
+    "id": 30,
+    "name": "Quý Dậu",
+    "code": "Kim",
+    "year": 1993
+  },
+  {
+    "id": 31,
+    "name": "Giáp Tuất",
+    "code": "Hỏa",
+    "year": 1994
+  },
+  {
+    "id": 32,
+    "name": "Ất Hợi",
+    "code": "Hỏa",
+    "year": 1995
+  },
+  {
+    "id": 33,
+    "name": "Bính Tý",
+    "code": "Thủy",
+    "year": 1996
+  },
+  {
+    "id": 34,
+    "name": "Đinh Sửu",
+    "code": "Thủy",
+    "year": 1997
+  },
+  {
+    "id": 35,
+    "name": "Mậu Dần",
+    "code": "Thổ",
+    "year": 1998
+  },
+  {
+    "id": 36,
+    "name": "Kỷ Mão",
+    "code": "Thổ",
+    "year": 1999
+  },
+  {
+    "id": 37,
+    "name": "Canh Thìn",
+    "code": "Kim",
+    "year": 2000
+  },
+  {
+    "id": 38,
+    "name": "Tân Tỵ",
+    "code": "Kim",
+    "year": 2001
+  },
+  {
+    "id": 39,
+    "name": "Nhâm Ngọ",
+    "code": "Mộc",
+    "year": 2002
+  },
+  {
+    "id": 40,
+    "name": "Quý Mùi",
+    "code": "Mộc",
+    "year": 2003
+  },
+  {
+    "id": 41,
+    "name": "Giáp Thân",
+    "code": "Thủy",
+    "year": 2004
+  },
+  {
+    "id": 42,
+    "name": "Ất Dậu",
+    "code": "Thủy",
+    "year": 2005
+  },
+  {
+    "id": 43,
+    "name": "Bính Tuất",
+    "code": "Thổ",
+    "year": 2006
+  },
+  {
+    "id": 44,
+    "name": "Đinh Hợi",
+    "code": "Thổ",
+    "year": 2007
+  },
+  {
+    "id": 45,
+    "name": "Mậu Tý",
+    "code": "Hỏa",
+    "year": 2008
+  },
+  {
+    "id": 46,
+    "name": "Kỷ Sửu",
+    "code": "Hỏa",
+    "year": 2009
+  },
+  {
+    "id": 47,
+    "name": "Canh Dần",
+    "code": "Mộc",
+    "year": 2010
+  },
+  {
+    "id": 48,
+    "name": "Tân Mão",
+    "code": "Mộc",
+    "year": 2011
+  },
+  {
+    "id": 49,
+    "name": "Nhâm Thìn",
+    "code": "Thủy",
+    "year": 2012
+  },
+  {
+    "id": 50,
+    "name": "Quý Tỵ",
+    "code": "Thủy",
+    "year": 2013
+  },
+  {
+    "id": 51,
+    "name": "Giáp Ngọ",
+    "code": "Kim",
+    "year": 2014
+  },
+  {
+    "id": 52,
+    "name": "Ất Mùi",
+    "code": "Kim",
+    "year": 2015
+  },
+  {
+    "id": 53,
+    "name": "Bính Thân",
+    "code": "Hỏa",
+    "year": 2016
+  },
+  {
+    "id": 54,
+    "name": "Đinh Dậu",
+    "code": "Hỏa",
+    "year": 2017
+  },
+  {
+    "id": 55,
+    "name": "Mậu Tuất",
+    "code": "Mộc",
+    "year": 2018
+  },
+  {
+    "id": 56,
+    "name": "Kỷ Hợi",
+    "code": "Mộc",
+    "year": 2019
+  },
+  {
+    "id": 57,
+    "name": "Canh Tý",
+    "code": "Thổ",
+    "year": 2020
+  },
+  {
+    "id": 58,
+    "name": "Tân Sửu",
+    "code": "Thổ",
+    "year": 2021
+  },
+  {
+    "id": 59,
+    "name": "Nhâm Dần",
+    "code": "Kim",
+    "year": 2022
+  },
+  {
+    "id": 60,
+    "name": "Quý Mão",
+    "code": "Kim",
+    "year": 2023
+  }
+]

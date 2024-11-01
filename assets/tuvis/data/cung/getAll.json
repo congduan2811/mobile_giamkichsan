@@ -1,0 +1,482 @@
+[
+  {
+    "id": 1,
+    "hoiID": 1,
+    "cungNam": "Cung Càn",
+    "moTaNam": "Phục Đầm Chi Lâm (Rồng ẩn ở đầm);Phú Đăng Hỏa (Lửa đèn to)",
+    "cungNu": "Cung Tốn",
+    "moTaNu": "Phục Đầm Chi Lâm (Rồng ẩn ở đầm);Phú Đăng Hỏa (Lửa đèn to)"
+  },
+  {
+    "id": 2,
+    "hoiID": 2,
+    "cungNam": "Cung Khôn",
+    "moTaNam": "Xuất Huyệt Chi Xà (Rắn rời hang);Phú Đăng Hỏa (Lửa đèn to)",
+    "cungNu": "Cung Đoài",
+    "moTaNu": "Xuất Huyệt Chi Xà (Rắn rời hang);Phú Đăng Hỏa (Lửa đèn to)"
+  },
+  {
+    "id": 3,
+    "hoiID": 3,
+    "cungNam": "Cung Tốn",
+    "moTaNam": "Hành Lộ Chi Mã (Ngựa chạy trên đường);Thiên Hà Thủy (Nước trên trời)",
+    "cungNu": "Cung Càn",
+    "moTaNu": "Hành Lộ Chi Mã (Ngựa chạy trên đường);Thiên Hà Thủy (Nước trên trời)"
+  },
+  {
+    "id": 4,
+    "hoiID": 4,
+    "cungNam": "Cung Chấn",
+    "moTaNam": "Thất Quần Chi Dương (Dê lạc đàn);Thiên Hà Thủy (Nước trên trời)",
+    "cungNu": "Cung Đoài",
+    "moTaNu": "Thất Quần Chi Dương (Dê lạc đàn);Thiên Hà Thủy (Nước trên trời)"
+  },
+  {
+    "id": 5,
+    "hoiID": 5,
+    "cungNam": "Cung Khôn",
+    "moTaNam": "Độc Lập Chi Hầu (Khỉ độc thân);Đại Trạch Thổ (Đất nền nhà)",
+    "cungNu": "Cung Cấn",
+    "moTaNu": "Độc Lập Chi Hầu (Khỉ độc thân);Đại Trạch Thổ (Đất nền nhà)"
+  },
+  {
+    "id": 6,
+    "hoiID": 6,
+    "cungNam": "Cung Khôn",
+    "moTaNam": "Báo Hiệu Chi Kê (Gà gáy);Đại Trạch Thổ (Đất nền nhà)",
+    "cungNu": "Cung Ly",
+    "moTaNu": "Báo Hiệu Chi Kê (Gà gáy);Đại Trạch Thổ (Đất nền nhà)"
+  },
+  {
+    "id": 7,
+    "hoiID": 7,
+    "cungNam": "Cung Ly",
+    "moTaNam": "Tự Quan Chi Cẩu (Chó nhà chùa);Thoa Xuyến Kim (Vàng trang sức)",
+    "cungNu": "Cung Khảm",
+    "moTaNu": "Tự Quan Chi Cẩu (Chó nhà chùa);Thoa Xuyến Kim (Vàng trang sức)"
+  },
+  {
+    "id": 8,
+    "hoiID": 8,
+    "cungNam": "Cung Cấn",
+    "moTaNam": "Khuyên Dưỡng Chi Trư (Lợn nuôi nhốt);Thoa Xuyến Kim (Vàng trang sức)",
+    "cungNu": "Cung Khôn",
+    "moTaNu": "Khuyên Dưỡng Chi Trư (Lợn nuôi nhốt);Thoa Xuyến Kim (Vàng trang sức)"
+  },
+  {
+    "id": 9,
+    "hoiID": 9,
+    "cungNam": "Cung Chấn",
+    "moTaNam": "Sơn Thượng Chi Thử (Chuột trên núi);Tang Đố Mộc (Gỗ cây dâu)",
+    "cungNu": "Cung Chấn",
+    "moTaNu": "Sơn Thượng Chi Thử (Chuột trên núi);Tang Đố Mộc (Gỗ cây dâu)"
+  },
+  {
+    "id": 10,
+    "hoiID": 10,
+    "cungNam": "Cung Cấn",
+    "moTaNam": "Lan Ngoại Chi Ngưu (Trâu ngoài chuồng);Tang Đố Mộc (Gỗ cây dâu)",
+    "cungNu": "Cung Tốn",
+    "moTaNu": "Lan Ngoại Chi Ngưu (Trâu ngoài chuồng);Tang Đố Mộc (Gỗ cây dâu)"
+  },
+  {
+    "id": 11,
+    "hoiID": 11,
+    "cungNam": "Cung Khôn",
+    "moTaNam": "Lập Định Chi Hổ (Hổ tự lập);Đại Khe Thủy (Nước khe lớn)",
+    "cungNu": "Cung Cấn",
+    "moTaNu": "Lập Định Chi Hổ (Hổ tự lập);Đại Khe Thủy (Nước khe lớn)"
+  },
+  {
+    "id": 12,
+    "hoiID": 12,
+    "cungNam": "Cung Tốn",
+    "moTaNam": "Đắc Đạo Chi Thố (Thỏ đắc đạo);Đại Khe Thủy (Nước khe lớn)",
+    "cungNu": "Cung Ly",
+    "moTaNu": "Đắc Đạo Chi Thố (Thỏ đắc đạo);Đại Khe Thủy (Nước khe lớn)"
+  },
+  {
+    "id": 13,
+    "hoiID": 13,
+    "cungNam": "Cung Chấn",
+    "moTaNam": "Thiên Thượng Chi Long (Rồng trên trời);Sa Trung Thổ (Đất pha cát)",
+    "cungNu": "Cung Khảm",
+    "moTaNu": "Thiên Thượng Chi Long (Rồng trên trời);Sa Trung Thổ (Đất pha cát)"
+  },
+  {
+    "id": 14,
+    "hoiID": 14,
+    "cungNam": "Cung Khôn",
+    "moTaNam": "Đầm Nội Chi Xà (Rắn trong đầm);Sa Trung Thổ (Đất pha cát)",
+    "cungNu": "Cung Khôn",
+    "moTaNu": "Đầm Nội Chi Xà (Rắn trong đầm);Sa Trung Thổ (Đất pha cát)"
+  },
+  {
+    "id": 15,
+    "hoiID": 15,
+    "cungNam": "Cung Khảm",
+    "moTaNam": "Cứu Nội Chi Mã (Ngựa trong chuồng);Thiên Thượng Hỏa (Lửa trên trời)",
+    "cungNu": "Cung Chấn",
+    "moTaNu": "Cứu Nội Chi Mã (Ngựa trong chuồng);Thiên Thượng Hỏa (Lửa trên trời)"
+  },
+  {
+    "id": 16,
+    "hoiID": 16,
+    "cungNam": "Cung Ly",
+    "moTaNam": "Thảo Dã Chi Dương (Dê đồng cỏ);Thiên Thượng Hỏa (Lửa trên trời)",
+    "cungNu": "Cung Tốn",
+    "moTaNu": "Thảo Dã Chi Dương (Dê đồng cỏ);Thiên Thượng Hỏa (Lửa trên trời)"
+  },
+  {
+    "id": 17,
+    "hoiID": 17,
+    "cungNam": "Cung Cấn",
+    "moTaNam": "Thực Quả Chi Hầu (Khỉ ăn hoa quả);Thạch Lựu Mộc (Gỗ cây lựu đá)",
+    "cungNu": "Cung Khôn",
+    "moTaNu": "Thực Quả Chi Hầu (Khỉ ăn hoa quả);Thạch Lựu Mộc (Gỗ cây lựu đá)"
+  },
+  {
+    "id": 18,
+    "hoiID": 18,
+    "cungNam": "Cung Đoài",
+    "moTaNam": "Long Tàng Chi Kê (Gà trong lồng);Thạch Lựu Mộc (Gỗ cây lựu đá)",
+    "cungNu": "Cung Cấn",
+    "moTaNu": "Long Tàng Chi Kê (Gà trong lồng);Thạch Lựu Mộc (Gỗ cây lựu đá)"
+  },
+  {
+    "id": 19,
+    "hoiID": 19,
+    "cungNam": "Cung Càn",
+    "moTaNam": "Cố Gia Chi Khuyển (Chó về nhà);Đại Hải Thủy (Nước biển lớn)",
+    "cungNu": "Cung Đoài",
+    "moTaNu": "Cố Gia Chi Khuyển (Chó về nhà);Đại Hải Thủy (Nước biển lớn)"
+  },
+  {
+    "id": 20,
+    "hoiID": 20,
+    "cungNam": "Cung Khôn",
+    "moTaNam": "Lâm Hạ Chi Trư (Lợn trong rừng);Đại Hải Thủy (Nước biển lớn)",
+    "cungNu": "Cung Cấn",
+    "moTaNu": "Lâm Hạ Chi Trư (Lợn trong rừng);Đại Hải Thủy (Nước biển lớn)"
+  },
+  {
+    "id": 21,
+    "hoiID": 21,
+    "cungNam": "Cung Chấn",
+    "moTaNam": "Ốc Thượng Chi Thử (Chuột ở nóc nhà);Hải Trung Kim (Vàng trong biển)",
+    "cungNu": "Cung Chấn",
+    "moTaNu": "Ốc Thượng Chi Thử (Chuột ở nóc nhà);Hải Trung Kim (Vàng trong biển)"
+  },
+  {
+    "id": 22,
+    "hoiID": 22,
+    "cungNam": "Cung Tốn",
+    "moTaNam": "Hải Nội Chi Ngưu (Trâu trong biển);Hải Trung Kim (Vàng trong biển)",
+    "cungNu": "Cung Tốn",
+    "moTaNu": "Hải Nội Chi Ngưu (Trâu trong biển);Hải Trung Kim (Vàng trong biển)"
+  },
+  {
+    "id": 23,
+    "hoiID": 23,
+    "cungNam": "Cung Khôn",
+    "moTaNam": "Sơn Lâm Chi Hổ (Hổ trong rừng);Lư Trung Hỏa (Lửa trong lò)",
+    "cungNu": "Cung Khảm",
+    "moTaNu": "Sơn Lâm Chi Hổ (Hổ trong rừng);Lư Trung Hỏa (Lửa trong lò)"
+  },
+  {
+    "id": 24,
+    "hoiID": 24,
+    "cungNam": "Cung Khảm",
+    "moTaNam": "Vọng Nguyệt Chi Thố (Thỏ ngắm trăng);Lư Trung Hỏa (Lửa trong lò)",
+    "cungNu": "Cung Càn",
+    "moTaNu": "Vọng Nguyệt Chi Thố (Thỏ ngắm trăng);Lư Trung Hỏa (Lửa trong lò)"
+  },
+  {
+    "id": 25,
+    "hoiID": 25,
+    "cungNam": "Cung Ly",
+    "moTaNam": "Thanh Ôn Chi Long (Rồng ôn hoà);Đại Lâm Mộc (Gỗ rừng già)",
+    "cungNu": "Cung Đoài",
+    "moTaNu": "Thanh Ôn Chi Long (Rồng ôn hoà);Đại Lâm Mộc (Gỗ rừng già)"
+  },
+  {
+    "id": 26,
+    "hoiID": 26,
+    "cungNam": "Cung Cấn",
+    "moTaNam": "Phúc Khí Chi Xà (Rắn có phúc);Đại Lâm Mộc (Gỗ rừng già)",
+    "cungNu": "Cung Cấn",
+    "moTaNu": "Phúc Khí Chi Xà (Rắn có phúc);Đại Lâm Mộc (Gỗ rừng già)"
+  },
+  {
+    "id": 27,
+    "hoiID": 27,
+    "cungNam": "Cung Đoài",
+    "moTaNam": "Thất Lý Chi Mã (Ngựa trong nhà);Lộ Bàng Thổ (Đất đường đi)",
+    "cungNu": "Cung Ly",
+    "moTaNu": "Thất Lý Chi Mã (Ngựa trong nhà);Lộ Bàng Thổ (Đất đường đi)"
+  },
+  {
+    "id": 28,
+    "hoiID": 28,
+    "cungNam": "Cung Càn",
+    "moTaNam": "Đắc Lộc Chi Dương (Dê có lộc);Lộ Bàng Thổ (Đất đường đi)",
+    "cungNu": "Cung Khảm",
+    "moTaNu": "Đắc Lộc Chi Dương (Dê có lộc);Lộ Bàng Thổ (Đất đường đi)"
+  },
+  {
+    "id": 29,
+    "hoiID": 29,
+    "cungNam": "Cung Khôn",
+    "moTaNam": "Thanh Tú Chi Hầu (Khỉ thanh tú);Kiếm Phong Kim (Vàng mũi kiếm)",
+    "cungNu": "Cung Khôn",
+    "moTaNu": "Thanh Tú Chi Hầu (Khỉ thanh tú);Kiếm Phong Kim (Vàng mũi kiếm)"
+  },
+  {
+    "id": 30,
+    "hoiID": 30,
+    "cungNam": "Cung Chấn",
+    "moTaNam": "Lâu Túc Kê (Gà nhà gác);Kiếm Phong Kim (Vàng mũi kiếm)",
+    "cungNu": "Cung Chấn",
+    "moTaNu": "Lâu Túc Kê (Gà nhà gác);Kiếm Phong Kim (Vàng mũi kiếm)"
+  },
+  {
+    "id": 31,
+    "hoiID": 31,
+    "cungNam": "Cung Ly",
+    "moTaNam": "Thủ Thân Chi Cẩu (Chó giữ mình);Sơn Đầu Hỏa (Lửa trên núi)",
+    "cungNu": "Cung Cấn",
+    "moTaNu": "Thủ Thân Chi Cẩu (Chó giữ mình);Sơn Đầu Hỏa (Lửa trên núi)"
+  },
+  {
+    "id": 32,
+    "hoiID": 32,
+    "cungNam": "Cung Khôn",
+    "moTaNam": "Quá Vãng Chi Trư (Lợn hay đi);Sơn Đầu Hỏa (Lửa trên núi)",
+    "cungNu": "Cung Đoài",
+    "moTaNu": "Quá Vãng Chi Trư (Lợn hay đi);Sơn Đầu Hỏa (Lửa trên núi)"
+  },
+  {
+    "id": 33,
+    "hoiID": 33,
+    "cungNam": "Cung Cấn",
+    "moTaNam": "Điền Nội Chi Thử (Chuột trong ruộng);Giản Hạ Thủy (Nước khe suối)",
+    "cungNu": "Cung Chấn",
+    "moTaNu": "Điền Nội Chi Thử (Chuột trong ruộng);Giản Hạ Thủy (Nước khe suối)"
+  },
+  {
+    "id": 34,
+    "hoiID": 34,
+    "cungNam": "Cung Ly",
+    "moTaNam": "Hồ Nội Chi Ngưu (Trâu trong hồ nước);Giản Hạ Thủy (Nước khe suối)",
+    "cungNu": "Cung Ly",
+    "moTaNu": "Hồ Nội Chi Ngưu (Trâu trong hồ nước);Giản Hạ Thủy (Nước khe suối)"
+  },
+  {
+    "id": 35,
+    "hoiID": 35,
+    "cungNam": "Cung Cấn",
+    "moTaNam": "Quá Sơn Chi Hổ (Hổ qua rừng);Thành Đầu Thổ (Đất trên thành)",
+    "cungNu": "Cung Khảm",
+    "moTaNu": "Quá Sơn Chi Hổ (Hổ qua rừng);Thành Đầu Thổ (Đất trên thành)"
+  },
+  {
+    "id": 36,
+    "hoiID": 36,
+    "cungNam": "Cung Đoài",
+    "moTaNam": "Sơn Lâm Chi Thố (Thỏ ở rừng);Thành Đầu Thổ (Đất trên thành)",
+    "cungNu": "Cung Khôn",
+    "moTaNu": "Sơn Lâm Chi Thố (Thỏ ở rừng);Thành Đầu Thổ (Đất trên thành)"
+  },
+  {
+    "id": 37,
+    "hoiID": 37,
+    "cungNam": "Cung Càn",
+    "moTaNam": "Thứ Tính Chi Long (Rồng khoan dung);Bạch Lạp Kim (Vàng sáp ong)",
+    "cungNu": "Cung Chấn",
+    "moTaNu": "Thứ Tính Chi Long (Rồng khoan dung);Bạch Lạp Kim (Vàng sáp ong)"
+  },
+  {
+    "id": 38,
+    "hoiID": 38,
+    "cungNam": "Cung Khôn",
+    "moTaNam": "Đông Tàng Chi Xà (Rắn ngủ đông);Bạch Lạp Kim (Vàng sáp ong)",
+    "cungNu": "Cung Tốn",
+    "moTaNu": "Đông Tàng Chi Xà (Rắn ngủ đông);Bạch Lạp Kim (Vàng sáp ong)"
+  },
+  {
+    "id": 39,
+    "hoiID": 39,
+    "cungNam": "Cung Tốn",
+    "moTaNam": "Quân Trung Chi Mã (Ngựa chiến);Dương Liễu Mộc (Gỗ cây dương)",
+    "cungNu": "Cung Ly",
+    "moTaNu": "Quân Trung Chi Mã (Ngựa chiến);Dương Liễu Mộc (Gỗ cây dương)"
+  },
+  {
+    "id": 40,
+    "hoiID": 40,
+    "cungNam": "Cung Chấn",
+    "moTaNam": "Quần Nội Chi Dương (Dê trong đàn);Dương Liễu Mộc (Gỗ cây dương)",
+    "cungNu": "Cung Cấn",
+    "moTaNu": "Quần Nội Chi Dương (Dê trong đàn);Dương Liễu Mộc (Gỗ cây dương)"
+  },
+  {
+    "id": 41,
+    "hoiID": 41,
+    "cungNam": "Cung Khôn",
+    "moTaNam": "Quá Thụ Chi Hầu (Khỉ leo cây);Tuyền Trung Thủy (Nước trong suối)",
+    "cungNu": "Cung Khôn",
+    "moTaNu": "Quá Thụ Chi Hầu (Khỉ leo cây);Tuyền Trung Thủy (Nước trong suối)"
+  },
+  {
+    "id": 42,
+    "hoiID": 42,
+    "cungNam": "Cung Khảm",
+    "moTaNam": "Xướng Ngọ Chi Kê (Gà gáy trưa);Tuyền Trung Thủy (Nước trong suối)",
+    "cungNu": "Cung Chấn",
+    "moTaNu": "Xướng Ngọ Chi Kê (Gà gáy trưa);Tuyền Trung Thủy (Nước trong suối)"
+  },
+  {
+    "id": 43,
+    "hoiID": 43,
+    "cungNam": "Cung Ly",
+    "moTaNam": "Tự Miên Chi Cẩu (Chó đang ngủ);Ốc Thượng Thổ (Đất nóc nhà)",
+    "cungNu": "Cung Cấn",
+    "moTaNu": "Tự Miên Chi Cẩu (Chó đang ngủ);Ốc Thượng Thổ (Đất nóc nhà)"
+  },
+  {
+    "id": 44,
+    "hoiID": 44,
+    "cungNam": "Cung Cấn",
+    "moTaNam": "Quá Sơn Chi Trư (Lợn qua núi);Ốc Thượng Thổ (Đất nóc nhà)",
+    "cungNu": "Cung  Cấn",
+    "moTaNu": "Quá Sơn Chi Trư (Lợn qua núi);Ốc Thượng Thổ (Đất nóc nhà)"
+  },
+  {
+    "id": 45,
+    "hoiID": 45,
+    "cungNam": "Cung Càn",
+    "moTaNam": "Thương Nội Chi Thư (Chuột trong kho);Thích Lịch Hỏa (Lửa sấm sét)",
+    "cungNu": "Cung Càn",
+    "moTaNu": "Thương Nội Chi Thư (Chuột trong kho);Thích Lịch Hỏa (Lửa sấm sét)"
+  },
+  {
+    "id": 46,
+    "hoiID": 46,
+    "cungNam": "Cung Đoài",
+    "moTaNam": "Lâm Nội Chi Ngưu (Trâu trong chuồng);Thích Lịch Hỏa (Lửa sấm sét)",
+    "cungNu": "Cung Đoài",
+    "moTaNu": "Lâm Nội Chi Ngưu (Trâu trong chuồng);Thích Lịch Hỏa (Lửa sấm sét)"
+  },
+  {
+    "id": 47,
+    "hoiID": 47,
+    "cungNam": "Cung Khôn",
+    "moTaNam": "Xuất Sơn Chi Hổ (Hổ xuống núi);Tùng Bách Mộc (Gỗ tùng bách)",
+    "cungNu": "Cung Cấn",
+    "moTaNu": "Xuất Sơn Chi Hổ (Hổ xuống núi);Tùng Bách Mộc (Gỗ tùng bách)"
+  },
+  {
+    "id": 48,
+    "hoiID": 48,
+    "cungNam": "Cung Tốn",
+    "moTaNam": "Ẩn HuyệtChi Thố (Thỏ);Tùng Bách Mộc (Gỗ tùng bách)",
+    "cungNu": "Cung Ly",
+    "moTaNu": "Ẩn HuyệtChi Thố (Thỏ);Tùng Bách Mộc (Gỗ tùng bách)"
+  },
+  {
+    "id": 49,
+    "hoiID": 49,
+    "cungNam": "Cung Chấn",
+    "moTaNam": "Hành Vũ Chi Long (Rồng phun mưa);Trường Lưu Thủy (Nước chảy mạnh)",
+    "cungNu": "Cung Khảm",
+    "moTaNu": "Hành Vũ Chi Long (Rồng phun mưa);Trường Lưu Thủy (Nước chảy mạnh)"
+  },
+  {
+    "id": 50,
+    "hoiID": 50,
+    "cungNam": "Cung Khôn",
+    "moTaNam": "Thảo Trung Chi Xà (Rắn trong cỏ);Trường Lưu Thủy (Nước chảy mạnh)",
+    "cungNu": "Cung Khôn",
+    "moTaNu": "Thảo Trung Chi Xà (Rắn trong cỏ);Trường Lưu Thủy (Nước chảy mạnh)"
+  },
+  {
+    "id": 51,
+    "hoiID": 51,
+    "cungNam": "Cung Cấn",
+    "moTaNam": "Vân Trung Chi Mã (Ngựa trong mây);Sa Trung Kim (Vàng trong cát)",
+    "cungNu": "Cung Ly",
+    "moTaNu": "Vân Trung Chi Mã (Ngựa trong mây);Sa Trung Kim (Vàng trong cát)"
+  },
+  {
+    "id": 52,
+    "hoiID": 52,
+    "cungNam": "Cung Càn",
+    "moTaNam": "Kính Trọng Chi Dương (Dê được quý mến);Sa Trung Kim (Vàng trong cát)",
+    "cungNu": "Cung Khảm",
+    "moTaNu": "Kính Trọng Chi Dương (Dê được quý mến);Sa Trung Kim (Vàng trong cát)"
+  },
+  {
+    "id": 53,
+    "hoiID": 53,
+    "cungNam": "Cung Khôn",
+    "moTaNam": "Sơn Thượng Chi Hầu (Khỉ trên núi);Sơn Hạ Hỏa (Lửa trên núi)",
+    "cungNu": "Cung Khôn",
+    "moTaNu": "Sơn Thượng Chi Hầu (Khỉ trên núi);Sơn Hạ Hỏa (Lửa trên núi)"
+  },
+  {
+    "id": 54,
+    "hoiID": 54,
+    "cungNam": "Cung Tốn",
+    "moTaNam": "Độc Lập Chi Kê (Gà độc thân);Sơn Hạ Hỏa (Lửa trên núi)",
+    "cungNu": "Cung Chấn",
+    "moTaNu": "Độc Lập Chi Kê (Gà độc thân);Sơn Hạ Hỏa (Lửa trên núi)"
+  },
+  {
+    "id": 55,
+    "hoiID": 55,
+    "cungNam": "Cung Chấn",
+    "moTaNam": "Tiến Sơn Chi Cẩu (Chó vào núi);Bình Địa Mộc (Gỗ đồng bằng)",
+    "cungNu": "Cung Chấn-Ly",
+    "moTaNu": "Tiến Sơn Chi Cẩu (Chó vào núi);Bình Địa Mộc (Gỗ đồng bằng)"
+  },
+  {
+    "id": 56,
+    "hoiID": 56,
+    "cungNam": "Cung Khôn",
+    "moTaNam": "Đạo Viện Chi Trư (Lợn trong tu viện);Bình Địa Mộc (Gỗ đồng bằng)",
+    "cungNu": "Cung Cấn",
+    "moTaNu": "Đạo Viện Chi Trư (Lợn trong tu viện);Bình Địa Mộc (Gỗ đồng bằng)"
+  },
+  {
+    "id": 57,
+    "hoiID": 57,
+    "cungNam": "Cung Càn",
+    "moTaNam": "Lương Thượng Chi Thử (Chuột trên xà);Bích Thượng Thổ (Đất tò vò)",
+    "cungNu": "Cung Càn",
+    "moTaNu": "Lương Thượng Chi Thử (Chuột trên xà);Bích Thượng Thổ (Đất tò vò)"
+  },
+  {
+    "id": 58,
+    "hoiID": 58,
+    "cungNam": "Cung Đoài",
+    "moTaNam": "Lộ Đồ Chi Ngưu (Trâu trên đường);Bích Thượng Thổ (Đất tò vò)",
+    "cungNu": "Cung Đoài",
+    "moTaNu": "Lộ Đồ Chi Ngưu (Trâu trên đường);Bích Thượng Thổ (Đất tò vò)"
+  },
+  {
+    "id": 59,
+    "hoiID": 59,
+    "cungNam": "Cung Cấn",
+    "moTaNam": "Quá Lâm Chi Hổ (Hổ qua rừng);Kim Bạch Kim (Vàng pha bạc)",
+    "cungNu": "Cung Cấn",
+    "moTaNu": "Quá Lâm Chi Hổ (Hổ qua rừng);Kim Bạch Kim (Vàng pha bạc)"
+  },
+  {
+    "id": 60,
+    "hoiID": 60,
+    "cungNam": "Cung Đoài",
+    "moTaNam": "Quá Lâm Chi Thố (Thỏ qua rừng);Kim Bạch Kim (Vàng pha bạc)",
+    "cungNu": "Cung Ly",
+    "moTaNu": "Quá Lâm Chi Thố (Thỏ qua rừng);Kim Bạch Kim (Vàng pha bạc)"
+  }
+]

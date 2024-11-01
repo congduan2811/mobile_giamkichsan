@@ -1,0 +1,386 @@
+[
+  {
+    "id": 1,
+    "cungNam": "Cung Càn",
+    "cungNu": "Cung Đoài",
+    "cuocSong": "Sinh khí; Ấm êm gia đạo; Trong ngoài êm vui; Nợ duyên gắn bó trọn đời; Thi vinh tử quý số người giàu sang"
+  },
+  {
+    "id": 2,
+    "cungNam": "Cung Càn",
+    "cungNu": "Cung Chấn",
+    "cuocSong": "Ngũ quỷ; Trước sau bất trường; Nợ duyên lận đận; Tâm lý vợ chồng không hòa; Kiếm niên sinh kế túng quẫn"
+  },
+  {
+    "id": 3,
+    "cungNam": "Cung Càn",
+    "cungNu": "Cung Khôn",
+    "cuocSong": "Phúc đức; Trường tồn ấm no; Đức tài như nước tràn vô; Cửa nhà đồ sộ quy mô ruộng vườn"
+  },
+  {
+    "id": 4,
+    "cungNam": "Cung Càn",
+    "cungNu": "Cung Khảm",
+    "cuocSong": "Lục sát; Phu thê buồn tủi; kim cải dở dang nửa đời; duyên nợ đổi rời tương tư ly tán"
+  },
+  {
+    "id": 5,
+    "cungNam": "Cung Càn",
+    "cungNu": "Cung Tốn",
+    "cuocSong": "Họa hại; Trước hợp sau lìa vô cùng khốn đốn; Coi cái trưởng thành côi cút; Hình ngục oan khiên, vợ chồng thương tổn"
+  },
+  {
+    "id": 6,
+    "cungNam": "Cung Càn",
+    "cungNu": "Cung Cấn",
+    "cuocSong": "Thiên ý; Mấy năm cuộc đời vượng tài phấn chấn; Tình yêu lửa đượm hương nồng; Rể thảo râu hiền an nhàn hậu vận"
+  },
+  {
+    "id": 7,
+    "cungNam": "Cung Càn",
+    "cungNu": "Cung Ly",
+    "cuocSong": "Tuyệt mạng; Nợ duyên cầm chắc, sầu bi khóc thầm, ái oan lỡ nhịp sắc cầm, mới hay căn kiếp số phần hẩm hưu;"
+  },
+  {
+    "id": 8,
+    "cungNam": "Cung Càn",
+    "cungNu": "Cung Càn",
+    "cuocSong": "Phúc đức;  Bậc trung thời số giàu sang trọng quyền. Vợ chồng bách thủ thanh qia. Trung niên xây dựng cửa nhà yên vui."
+  },
+  {
+    "id": 9,
+    "cungNam": "Cung Khảm",
+    "cungNu": "Cung Đoài",
+    "cuocSong": "Họa hại; Ấm êm chốc lát, ách tai buộc ràng, số phận vợ chồng đao mang cuộc đời. Khổ hận sầu than đêm ngày."
+  },
+  {
+    "id": 10,
+    "cungNam": "Cung Khảm",
+    "cungNu": "Cung Chấn",
+    "cuocSong": "Thiên ý; Quan lộ uy quyền đời sống sung mãn. Thê vinh tử quý rõ ràng, duyên nợ vợ chồng du môi tóc bạc."
+  },
+  {
+    "id": 11,
+    "cungNam": "Cung Khảm",
+    "cungNu": "Cung Khôn",
+    "cuocSong": "Tuyệt mạng; Vợ chồng dập dồn ốm đau…ly sầu. Nếu không thì vợ cũng vào cõi âm."
+  },
+  {
+    "id": 12,
+    "cungNam": "Cung Khảm",
+    "cungNu": "Cung Khảm",
+    "cuocSong": "Phục vị; Nợ duyên êm thấm, an bài. Một đời ái tình áo cơm no ấm"
+  },
+  {
+    "id": 13,
+    "cungNam": "Cung Khảm",
+    "cungNu": "Cung Tốn",
+    "cuocSong": "Sinh khí; mệnh thọ duyên bài đời ấm êm. Số không sang nhưng mát lành. Gia đạo thuận hòa con cái thành đạt."
+  },
+  {
+    "id": 14,
+    "cungNam": "Cung Khảm",
+    "cungNu": "Cung Cấn",
+    "cuocSong": "Ngũ quỷ; Duyên phận lỡ làng con cái đàm điếm du đãng. Giàu có cũng phá sản"
+  },
+  {
+    "id": 15,
+    "cungNam": "Cung Khảm",
+    "cungNu": "Cung Ly",
+    "cuocSong": "Phúc đức; Chung chung như nhất nhà phong lưu. Có số giàu sang. Vợ chồng hưởng của phụ ấm trước sau thanh nhàn."
+  },
+  {
+    "id": 16,
+    "cungNam": "Cung Khảm",
+    "cungNu": "Cung Càn",
+    "cuocSong": "Lục sát; Cung thương từ cảnh hai đường hiệp hôn, buồn cho duyên nợ long đong bất hòa, tâm lý vợ chồng đảo điên"
+  },
+  {
+    "id": 17,
+    "cungNam": "Cung Đoài",
+    "cungNu": "Cung Đoài",
+    "cuocSong": "Phục vị; Bình thường thời cũng gia tài bậc trung. Gia đình thân mạng ung dung. Trưởng thành con cháu đẹp lòng mẹ cha."
+  },
+  {
+    "id": 18,
+    "cungNam": "Cung Đoài",
+    "cungNu": "Cung Chấn",
+    "cuocSong": "Tuyệt mạng; Chăn gối ái tình khó yên. Thân phận bồng lai, duyên nợ lần tan biến, căn bằng căn kiếp đa chuân lận đận."
+  },
+  {
+    "id": 19,
+    "cungNam": "Cung Đoài",
+    "cungNu": "Cung Khôn",
+    "cuocSong": "Thiên ý; Nội ngoại thê tử vuông tròn giàu sang. Các con sau trước huy hoàng. Tiền vận hậu vận rõ ràng nghiệp danh"
+  },
+  {
+    "id": 20,
+    "cungNam": "Cung Đoài",
+    "cungNu": "Cung Khảm",
+    "cuocSong": "Họa hại; Tương lai tật ách dập dồn. Thê thảm nửa đời thân phận sinh ly. Gia đạo lâm vong trái ngang lãnh đạm."
+  },
+  {
+    "id": 21,
+    "cungNam": "Cung Đoài",
+    "cungNu": "Cung Tốn",
+    "cuocSong": "Lục sát; Sáo trộn gia đình, sinh cơ khốn đón. Con cái lớn nhỏ bất tường. Tình nghĩa nhạt phai hỗn độn."
+  },
+  {
+    "id": 22,
+    "cungNam": "Cung Đoài",
+    "cungNu": "Cung Cấn",
+    "cuocSong": "Phúc đức; Phụ âm giành sẵn bền tài lợi. Gia đạo thê tử êm ấm, duyên nợ trọn đời, hương nồng thắm"
+  },
+  {
+    "id": 23,
+    "cungNam": "Cung Đoài",
+    "cungNu": "Cung Ly",
+    "cuocSong": "Ngũ quỷ; Cố công cho mấy vô nghĩa kiếp sinh. Nợ duyên như sợi tơ mành. Công danh sự nghiệp bất thành không sai"
+  },
+  {
+    "id": 24,
+    "cungNam": "Cung Đoài",
+    "cungNu": "Cung Càn",
+    "cuocSong": "Sinh khí; Hôn nhân bền vững vượng tài. Sinh cơ vốn một lời hai. Lầu cao cửa rộng cháu con ngoan hiền."
+  },
+  {
+    "id": 25,
+    "cungNam": "Cung Chấn",
+    "cungNu": "Cung Đoài",
+    "cuocSong": "Tuyệt mạng; Lửa hương sau trước thiệt thòi, vợ chồng không ở trọn đời, Con cháu bất lợi côi cút ly phiền."
+  },
+  {
+    "id": 26,
+    "cungNam": "Cung Chấn",
+    "cungNu": "Cung Chấn",
+    "cuocSong": "Phúc đức; Trung bình duyên nợ tiền hậu như nhất, có số no ấm cả đời. Gia đạo yên vui, trên hòa dưới thuận."
+  },
+  {
+    "id": 27,
+    "cungNam": "Cung Chấn",
+    "cungNu": "Cung Khôn",
+    "cuocSong": "Họa hại; Nợ duyên khốn đốn dập dồn oan khiên. Trong ngoài thân thể đảo điên, tai ương bệnh tật dính liền bên lưng"
+  },
+  {
+    "id": 28,
+    "cungNam": "Cung Chấn",
+    "cungNu": "Cung Khảm",
+    "cuocSong": "Thiên y; Trăm tuổi phu thê nghĩa tình nồng thắm, vinh hiển thụ hưởng vững bền. Rể thảo dâu hiền cửa nhà êm ấp"
+  },
+  {
+    "id": 29,
+    "cungNam": "Cung Chấn",
+    "cungNu": "Cung Tốn",
+    "cuocSong": "Phúc đức; Cuộc tình bền vững mặn nồng. Sinh trai đầu lòng trưởng thành quan lớn"
+  },
+  {
+    "id": 30,
+    "cungNam": "Cung Chấn",
+    "cungNu": "Cung Cấn",
+    "cuocSong": "Lục sát; Số phu thê âm thầm tủi hận. Gia đạo lục đục bất hòa. Đời sống  cơ hàn, con cái lận đận."
+  },
+  {
+    "id": 31,
+    "cungNam": "Cung Chấn",
+    "cungNu": "Cung Ly",
+    "cuocSong": "Sinh khí; Hiệp hôn cung lộ tròn nghì thủy chung….Phú quý cháu con phúc hồng, quyền uy"
+  },
+  {
+    "id": 32,
+    "cungNam": "Cung Chấn",
+    "cungNu": "Cung Càn",
+    "cuocSong": "Ngũ quỷ; Gia đình xáo trộn điêu tàn lửa hương. Xuân mộng thê lương, uyên ương bỏ gánh."
+  },
+  {
+    "id": 33,
+    "cungNam": "Cung Khôn",
+    "cungNu": "Cung Đoài",
+    "cuocSong": "Thiên ý; Mạng trường hưởng thọ lộc tài dài lâu. Con trai hiển đạt công hầu. Gái hiền rể thảo trước sau toại lòng."
+  },
+  {
+    "id": 34,
+    "cungNam": "Cung Khôn",
+    "cungNu": "Cung Chấn",
+    "cuocSong": "Họa hại; Không hình ngục thì cũng khổ tai. Duyên nợ lâm vấp khổ buồn. Đời sống buồn than sinh cơ chật vật."
+  },
+  {
+    "id": 35,
+    "cungNam": "Cung Khôn",
+    "cungNu": "Cung Khôn",
+    "cuocSong": "Phục vị; Keo sơn gắn bó cháu con vẹn toàn. Trung niên mấy lận thông trơn. Hữu vận phú quý trăm phần phong lưu."
+  },
+  {
+    "id": 36,
+    "cungNam": "Cung Khôn",
+    "cungNu": "Cung Khảm",
+    "cuocSong": "Tuyệt mạng; Cầu phần nợ duyên sầu thảm, số phận dở dang. Nửa đời chồng vợ ly tán"
+  },
+  {
+    "id": 37,
+    "cungNam": "Cung Khôn",
+    "cungNu": "Cung Tốn",
+    "cuocSong": "Ngũ quỷ; Cuộc đời chật vật thiếu thốn. Duyên nợ lận đận nghịch thường. Con cái bất hòa lớn lên cùng khốn."
+  },
+  {
+    "id": 38,
+    "cungNam": "Cung Khôn",
+    "cungNu": "Cung Cấn",
+    "cuocSong": "Sinh khí; Sinh cơ mọi bề thời hương phấn chấn. Gia đạo trước sau thuận hòa. Thừa thãi trong ngoài ruộng vườn điền sản;"
+  },
+  {
+    "id": 39,
+    "cungNam": "Cung Khôn",
+    "cungNu": "Cung Ly",
+    "cuocSong": "Lục sát; Nợ duyên chịu đựng sầu bi tháng ngày. Đa truân hệ lụy nạn tai. Gia đình lụi bại tương lai mơ hồ"
+  },
+  {
+    "id": 40,
+    "cungNam": "Cung Khôn",
+    "cungNu": "Cung Càn",
+    "cuocSong": "Phúc đức; Mệnh duyên phải nợ tiền cân định phần. Bản mệnh lại có quý nhân. Được số phú quý an thân an nhàn."
+  },
+  {
+    "id": 41,
+    "cungNam": "Cung Tốn",
+    "cungNu": "Cung Đoài",
+    "cuocSong": "Lục sát; Hiệp hôn đã thấy đeo tai khổ phiền. Cửa nhà sa sút ngả nghiêng. Gây điều đổ nợ thay duyên phũ phàng."
+  },
+  {
+    "id": 42,
+    "cungNam": "Cung Tốn",
+    "cungNu": "Cung Chấn",
+    "cuocSong": "Phúc đức; Được số phúc đức trọn đời an phận. Bạc tiền, điền sản thăng dư. Duyên nợ vợ chồng trăm năm viên mãn."
+  },
+  {
+    "id": 43,
+    "cungNam": "Cung Tốn",
+    "cungNu": "Cung Khôn",
+    "cuocSong": "Ngũ quỷ; Sinh cơ khốn đốn bất hòa. Nợ duyên vốn đã an bài, trung niên ắt phải… cuộc tình."
+  },
+  {
+    "id": 44,
+    "cungNam": "Cung Tốn",
+    "cungNu": "Cung Khảm",
+    "cuocSong": "Sinh khí; Tiền định phu thê sum vầy duyên phận. Lộc tài phát vượng huy hoàng, con cái lớn lên sống đời nhung gấm."
+  },
+  {
+    "id": 45,
+    "cungNam": "Cung Tốn",
+    "cungNu": "Cung Tốn",
+    "cuocSong": "Phục vị; Thường thường đời sống thanh danh tốt; Sinh duyên đẹp tình nồng, sự nghiệp tử tôn thấu  tài vượng lộc."
+  },
+  {
+    "id": 46,
+    "cungNam": "Cung Tốn",
+    "cungNu": "Cung Cấn",
+    "cuocSong": "Tuyệt mạng; Số mạng khó toàn. Nợ duyên đời rã rời ân hận."
+  },
+  {
+    "id": 47,
+    "cungNam": "Cung Tốn",
+    "cungNu": "Cung Ly",
+    "cuocSong": "Thiên ý; Thọ trường thân thể ai bì được đâu. Uy quyền tiền bạc bền lâu. Nợ duyên hạnh hưởng sang giàu trăm năm."
+  },
+  {
+    "id": 48,
+    "cungNam": "Cung Tốn",
+    "cungNu": "Cung Càn",
+    "cuocSong": "Họa hại;  Yêu đương tác hợp buồn than đêm ngày. Triền miên tai ách không hay. Nợ duyên sầu muộn đắng cay cuộc đời."
+  },
+  {
+    "id": 49,
+    "cungNam": "Cung Ly",
+    "cungNu": "Cung Đoài",
+    "cuocSong": "Ngũ quỷ; Bạc tiền bạo phát như hoài công lao. Nửa đời càn kiếp ba đào. Cửa nhà điếu sảnh tiêu hao không còn."
+  },
+  {
+    "id": 50,
+    "cungNam": "Cung Ly",
+    "cungNu": "Cung Chấn",
+    "cuocSong": "Sinh khí; Ý hợp tâm đầu, ấm êm gia thất trọn đời nhàn hạ phong lưu. Trung niên hậu vận thành công mỹ mãn."
+  },
+  {
+    "id": 51,
+    "cungNam": "Cung Ly",
+    "cungNu": "Cung Khôn",
+    "cuocSong": "Lục sát; Kết hôn luân chuyển dập dồn lo âu. Trai xa, gái đọa lẳng lơ. Trước sau rồi cũng hững hờ."
+  },
+  {
+    "id": 52,
+    "cungNam": "Cung Ly",
+    "cungNu": "Cung Khảm",
+    "cuocSong": "Thiên ý; Phúc đức được soi hiền đạt, phu thê vinh ấm. Tình yêu hương nửa mặn nồng. Tương lai con cái đạt bằng bảng khoa."
+  },
+  {
+    "id": 53,
+    "cungNam": "Cung Ly",
+    "cungNu": "Cung Tốn",
+    "cuocSong": "Thiên ý; Mang nợ duyên trời cho yên ổn. Cả đời ấm cúng giàu sang. Con cái gái trai vẹn toàn căn bản."
+  },
+  {
+    "id": 54,
+    "cungNam": "Cung Ly",
+    "cungNu": "Cung Cấn",
+    "cuocSong": "Họa hại; Sống đời tật ách đa đoan, vợ chồng đa đọa."
+  },
+  {
+    "id": 55,
+    "cungNam": "Cung Ly",
+    "cungNu": "Cung Ly",
+    "cuocSong": "Phục vị; Tình duyên lựa chọn nghĩa tình thủy chung. Bạc tiền giàu có bậc trung. Công danh hữu vận lẫy lừng tiếng thơm."
+  },
+  {
+    "id": 56,
+    "cungNam": "Cung Ly",
+    "cungNu": "Cung Càn",
+    "cuocSong": "Tuyệt mạng; Duyên nợ gẫy cánh giữa đường thảm thương. Cho hay cái số đoạn trường; phiền, ly tán, bât thường phu thê."
+  },
+  {
+    "id": 57,
+    "cungNam": "Cung Cấn",
+    "cungNu": "Cung Đoài",
+    "cuocSong": "Phúc đức; Đẹp duyên cá nước tiền tài vượng hương. Số này tài vận đáng mừng, hào con hào của bậc trung thanh nhàn."
+  },
+  {
+    "id": 58,
+    "cungNam": "Cung Cấn",
+    "cungNu": "Cung Chấn",
+    "cuocSong": "Lục sát; Sự nghiệp sẵn sàng lâm hồi tẩu tán. Phu phụ tâm lý nghịch thường, trước sau hạnh phúc gia đình hư mãi."
+  },
+  {
+    "id": 59,
+    "cungNam": "Cung Cấn",
+    "cungNu": "Cung Khôn",
+    "cuocSong": "Sinh khí; Sống đời loan phượng, phúc tồn hậu lai; quý lộc có hưởng hạnh tài. Nhà cao cửa rộng quyền oai vô cùng."
+  },
+  {
+    "id": 60,
+    "cungNam": "Cung Cấn",
+    "cungNu": "Cung Khảm",
+    "cuocSong": "Ngũ quỷ; duyên nợ nửa đời chuốc nhiều ảm đạm. Số đổi rời hai lần nếu không lâm vòng hoạn nạn."
+  },
+  {
+    "id": 61,
+    "cungNam": "Cung Cấn",
+    "cungNu": "Cung Tốn",
+    "cuocSong": "Tuyệt mạng; Căn phần khó tính tóc tang thương tổn. Trong hai chắc mất một người, từ biệt hồng trần phương xa chạy trốn"
+  },
+  {
+    "id": 62,
+    "cungNam": "Cung Cấn",
+    "cungNu": "Cung Cấn",
+    "cuocSong": "Phục vị; Số được vui hưởng thê hòa phu thuận phong lưu nhàn hạ bậc trung. Một đời ái tình nợ duyên an phận"
+  },
+  {
+    "id": 63,
+    "cungNam": "Cung Cấn",
+    "cungNu": "Cung Ly",
+    "cuocSong": "Họa hại; Bất tường tai ách sầu bi gia đình. Yêu đương một tấm chân tình, cùng nhau chia được đời mình sánh đôi."
+  },
+  {
+    "id": 64,
+    "cungNam": "Cung Cấn",
+    "cungNu": "Cung Càn",
+    "cuocSong": "Thiên ý; Phu thê dẫu có nghèo nàn không lo. Trung niên được tuổi trời cho, hậu vận sung mãn quy mô ruộng vườn."
+  }
+]

@@ -1,0 +1,86 @@
+[
+  {
+    "id": 1,
+    "name": "Tý",
+    "firstHour": "Khắc mẹ còn cha, tính hay vội vã. Cũng là khắc thì khắc cả con, cả họ hàng. Sau thì sẽ yên",
+    "middleHour": "Sinh ra cha mẹ song toàn. Tính hay vui vẻ thanh nhàn song thân. Anh em họ mạc cùng đông. Tài hoa mà lại quý nhân cũng nhiều",
+    "finalHour": "Sinh ra cha mẹ chẳng còn, anh em thì ít không người đỡ nương. Phu thê khắc đến hai lần. Ở nhà bất lợi phải thân ra ngoài"
+  },
+  {
+    "id": 2,
+    "name": "Sửu",
+    "firstHour": "Phụ mẫu song toàn, anh em khá giả họ hàng đông vui. Có nhiều tài lộc hẳn hoi. Có văn có võ nên người giỏi giang",
+    "middleHour": "Cha mẹ còn khôn ngoan; tiền vận long đong, anh em không được nhờ cậy; hợp vận mới thanh nhàn",
+    "finalHour": "Khắc cha khắc mẹ; vất vả khó nhọc họ hàng kém vui; bốn mươi tuổi mới tốt tươi; hậu vận mừng vui cũng nhiều"
+  },
+  {
+    "id": 3,
+    "name": "Dần",
+    "firstHour": "Cha sớm khuất rồi; Ra vào quyền quý mọi người tin yêu; Tiền vận gian khổ có nhiều; Ngoài 30 tuổi của nhiều lắm thay",
+    "middleHour": "Sinh ra cha mẹ song toàn; Ngoài ba mươi tuổi vinh quang sao bằng; Anh em đông; Lắm họ hàng; Rõ ràng con cháu đàn đàn tốt thay;",
+    "finalHour": "Khắc cả cha mẹ, vợ đầu con sớm chẳng hay bất hoà; tiền vận vất vả không ngờ; ngoài 30 tuổi mới hồ tạm yên;"
+  },
+  {
+    "id": 4,
+    "name": "Mão",
+    "firstHour": "Đầu giờ khắc mẹ không may; tính hay nóng nảy chẳng hay trò gì; anh em lãnh đạm thờ ơ; vợ chồng phải khắc đến người thứ 3",
+    "middleHour": "Song toàn cha mẹ thuận hoà; dù trai hay gái cũng là hiền nhi; Giàu sang phú quý ai bì; Đến 30 tuổi đến kỳ làm lên",
+    "finalHour": "Cha khắc chưa yên; Đông Tây Nam Bắc chẳng nên việc gì; Hậu vận tài lộc phương phi; Đông con nhiều cháu cũng là tốt tươi;"
+  },
+  {
+    "id": 5,
+    "name": "Thìn",
+    "firstHour": "Cha mẹ song toàn vui tươi; tính hay nóng nảy con thời mâu sinh. Anh em tẻ nhạt nghĩa tình; tiền vận bất lợi giữ mình mới yên",
+    "middleHour": "Thìn giữa cha mẹ lo phiền; bạn bè sang trọng làm nên cơ đồ; tiền vận vất vả giang hồ; Hậu vận no đủ yên cư vững bền",
+    "finalHour": "Còn cha thì mẹ khó tuyền; thông minh phát đạt có thêm việc làm; anh em khá giả giàu sang; Công danh phú quý giá môn thịnh cường."
+  },
+  {
+    "id": 6,
+    "name": "Tỵ",
+    "firstHour": "Khắc mẹ chẳng vui; Vợ đầu con sớm kém tới đủ đường. Hậu vận phú quý vinh quang; gái trai đều thọ tuổi xuân do trời",
+    "middleHour": "Cha mẹ sống lâu bạc đầu; có tài có chữ sang giàu lắm phen; họ hàng đông đúc nhiều thêm; lắm con nhiều cháu chuân chuyên lâu dài;",
+    "finalHour": "Sinh ra khắc mẹ chẳng con; giàu sang phú quý họ hàng kém xa; anh em trên dưới bất hoà; tiền vận vất vả sau hoà làm nên"
+  },
+  {
+    "id": 7,
+    "name": "Ngọ",
+    "firstHour": "Ngọ đầu cha mẹ chu viên, anh em khá giả nhiều thêm họ hàng; trong nhà của cải giàu sang; con con cháu cháu không ngoan nhiều bề",
+    "middleHour": "Ngọ chung cha mẹ sớm về; lộc tài chẳng có ê chề lắm phen; ngoài ba mươi tuổi tạm yên;",
+    "finalHour": "Ngọ cuối cha mẹ khó tuyền; vợ chồng sớm khắc sau cùng mới lên; con đâu của sớm chưa yên; hậu vận tiền đạt làm nên mọi bề;"
+  },
+  {
+    "id": 8,
+    "name": "Mùi",
+    "firstHour": "Đầu mùi cha mẹ đỡ huề; giàu sang phú quý mọi bề thanh cao; anh em nhiều kẻ anh hào; sau cùng phú quý càng nhiều vinh hoa",
+    "middleHour": "Giữa giờ cha mẹ sớm khắc rồi, tính hay rộng rãi mọi người mến yêu. Vợ đầu con sớm khó chiều. Hậu vận phát đạt sau rồi cũng hay",
+    "finalHour": "Cuối mùi cha mẹ về tông, anh em họ mạc chẳng ai thương cùng; tiền vận góc bể tây đông; hậu vận dần dần của cải điền viên;"
+  },
+  {
+    "id": 9,
+    "name": "Thân",
+    "firstHour": "Thân đầu cha mẹ chu tuyền; thông minh mà lắm người khen đức tài; anh em họ mạc giàu thay; ruộng điền của cải chất đầy trong kho",
+    "middleHour": "Thân giữa cha khuất phải lo; anh em họ mạc chẳng lo cho mình; tiền vận khắc cả thê nhi; bỏ đi nơi khác sau thì làm lên",
+    "finalHour": "Thân cuối cha mẹ chẳng may; họ hàng lãnh đạm chẳng ai thương tình; sinh con quý tử rành rành; vinh hoa phú quý hưởng giàu tự nhiên"
+  },
+  {
+    "id": 10,
+    "name": "Dậu",
+    "firstHour": "Dậu đầu cha mẹ tóc mây; họ hàng chểnh mảng chẳng ai thương cùng; sinh con gây hoạ gia đình; phải đi buôn bán một mình mới lên",
+    "middleHour": "Dậu chung cha mẹ chẳng tuyền, tính ưa quảng bác lại chuyên làm nghề; trước thời khắc cả thê nhi; hậu vận cũng được một khi an nhàn",
+    "finalHour": "Cuối dậu khắc mẹ không may; vợ chồng lâu ngày rồi cũng khắc con; tiền vận thăng dáng luôn luôn; ngoài 30 tuổi bán buôn nên giàu"
+  },
+  {
+    "id": 11,
+    "name": "Tuất",
+    "firstHour": "Tuất đầu khắc mẹ thêm sầu; tính hay sốt sắng ai cầu được ngay; có quyền có đức mới hay; tiền vận khó nhọc sau thời vinh hoa",
+    "middleHour": "Tuất giữa thì sẽ khắc cha; anh em không được thuận hoà cùng nhau; phu thê khắc cả con đầu; Bốn mươi lăm tuổi làm giàu như chơi",
+    "finalHour": "Tuất cuối cha mẹ tốt tươi; tính hay nhanh nhẹn vui chơi bạn bè; anh em họ mạc hài hoà; Lộc tài đầy đủ đề đa thọ trường;"
+  },
+  {
+    "id": 12,
+    "name": "Hợi",
+    "firstHour": "Đầu hợi mẹ đi Tây Phương; tính hay rộng rãi lại thương người nghèo; tiền vận vất vả gieo leo; hậu vận phú quý được nhiều người yêu.",
+    "middleHour": "Hợi trung phụ mẫu lên cao; thông minh được lắm kẻ yêu người bì; anh em hoà thuận bốn bề; hậu vận giàu có không hề kiêu căng",
+    "finalHour": "Hợi cuối cha mẹ về trời; lòng hay trợ cấp bao người tin yêu; tiền vận vất vả gieo leo; vợ chồng sớm khắc sau nên sang giàu;"
+  }
+]

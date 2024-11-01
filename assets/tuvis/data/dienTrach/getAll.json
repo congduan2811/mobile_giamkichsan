@@ -1,0 +1,302 @@
+[
+  {
+    "id": 1,
+    "hoiID": 1,
+    "description": "Chính Tây: Phúc Đức;\r\n                Tây Nam: Diên Niên;\r\n                Tây Bắc: Phục Vị;"
+  },
+  {
+    "id": 2,
+    "hoiID": 2,
+    "description": "Chính Tây: Diên Niên;\r\n                Chính Bắc: Sinh Khí;\r\n                Tây Nam: Phúc Đức;\r\n                Tây Bắc: Phục Vị;"
+  },
+  {
+    "id": 3,
+    "hoiID": 3,
+    "description": "Chính Đông: Phục Vị;\r\n                Chính Tây: Sinh Khí;\r\n                Chính Bắc: Phúc Đức;\r\n                Đông Nam: Diên Niên;\r\n                "
+  },
+  {
+    "id": 4,
+    "hoiID": 4,
+    "description": "Chính Đông: Diên Niên;\r\n                Chính Nam: Phúc Đức;\r\n                Chính Bắc: Sinh Khí;\r\n                Đông Nam: Phục Vị;"
+  },
+  {
+    "id": 5,
+    "hoiID": 5,
+    "description": "Chính Tây: Phúc Đức;\r\n                Tây Nam: Phục Vị;\r\n                Tây Bắc: Diên Niên;\r\n                Đông Bắc: Sinh Khí;"
+  },
+  {
+    "id": 6,
+    "hoiID": 6,
+    "description": "Chính Đông: phúc đức;\r\n                Chính Nam: Diên niên;\r\n                Đông Nam: Sinh khí;\r\n                Chính Bắc: Phục vị"
+  },
+  {
+    "id": 7,
+    "hoiID": 7,
+    "description": "Chính Đông: Sinh Khí;\r\n                Chính Nam: Phục Vị;\r\n                Chính Bắc: Diên Niên;\r\n                Đông Nam: Phúc Đức"
+  },
+  {
+    "id": 8,
+    "hoiID": 8,
+    "description": "Chính Tây: Diên Niên;\r\n                Tây Nam: Sinh Khí;\r\n                Tây Bắc: Phúc Đức; \r\n                Đông Bắc: Phục Vị;"
+  },
+  {
+    "id": 9,
+    "hoiID": 9,
+    "description": "Chính Tây: Phục Vị;\r\n                Tây Nam: Phúc Đức;\r\n                Tây Bắc: Diên Niên;\r\n                Đông Bắc: Sinh Khí;"
+  },
+  {
+    "id": 10,
+    "hoiID": 10,
+    "description": "Chính Tây: Sinh Khí;\r\n                Tây Nam: Diên Niên;\r\n                Tây Bắc: Phục Vị;"
+  },
+  {
+    "id": 11,
+    "hoiID": 11,
+    "description": "Chính Tây: Diên Niên;\r\n                Chính Bắc: Sinh Khí;\r\n                Tây Nam: Phục Vị;\r\n                Tây Bắc: Phúc Đức;"
+  },
+  {
+    "id": 12,
+    "hoiID": 12,
+    "description": "Chính Đông: Diên Niên;\r\n                Chính Nam: Phúc Đức;\r\n                Chính Bắc: Sinh Khí;\r\n                Đông Nam: Phục Vị;"
+  },
+  {
+    "id": 13,
+    "hoiID": 13,
+    "description": "Chính Đông: Phục Vị;\r\n                Chính Nam: Sinh Khí;\r\n                Chính Bắc: Phúc Đức;\r\n                Đông Nam: Diên Niên;"
+  },
+  {
+    "id": 14,
+    "hoiID": 14,
+    "description": "Chính Tây: Phúc Đức;\r\n                Tây Nam: Phục Vị;\r\n                Tây Bắc: Diên Niên;\r\n                Đông Bắc: Sinh Khí;"
+  },
+  {
+    "id": 15,
+    "hoiID": 15,
+    "description": "Chính Đông: Sinh Khí;\r\n                Chính Nam: Diên Niên;\r\n                Chính Bắc: Phục Vị;\r\n                Đông Nam: Sinh Khí;"
+  },
+  {
+    "id": 16,
+    "hoiID": 16,
+    "description": "Chính Đông: Sinh Khí;\r\n                Chính Nam: Phục Vị;\r\n                Chính Bắc: Diên Niên;\r\n                Đông Nam: Phúc Đức"
+  },
+  {
+    "id": 17,
+    "hoiID": 17,
+    "description": "Chính Tây: Diên Niên;\r\n                Tây Nam: Sinh Khí;\r\n                Tây Bắc: Phúc Đức; \r\n                Đông Bắc: Phục Vị;"
+  },
+  {
+    "id": 18,
+    "hoiID": 18,
+    "description": "Chính Tây: Phục Vị;\r\n                Tây Nam: Phúc Đức;\r\n                Tây Bắc: Sinh Khí;\r\n                Đông Bắc: Diên Niên;"
+  },
+  {
+    "id": 19,
+    "hoiID": 19,
+    "description": "Chính Tây: Sinh Khí;\r\n                Tây Nam: Diên Niên;\r\n                Tây Bắc: Phục Vị;\r\n                Đông Bắc: Phúc Đức;"
+  },
+  {
+    "id": 20,
+    "hoiID": 20,
+    "description": "Chính Tây: Phúc Đức;\r\n                Tây Nam: Phục Vị;\r\n                Tây Bắc: Diên Niên;\r\n                Đông Bắc: Sinh Khí;"
+  },
+  {
+    "id": 21,
+    "hoiID": 21,
+    "description": "Chính Đông: phúc đức;\r\n                Chính Nam: Diên niên;\r\n                Đông Nam: Sinh khí;\r\n                Chính Bắc: Phục vị"
+  },
+  {
+    "id": 22,
+    "hoiID": 22,
+    "description": "Chính Đông: Sinh khí;\r\n                Chính Nam: Phục vị;\r\n                Chính Bắc: Diên niên;\r\n                Đông Nam: Phúc đức;"
+  },
+  {
+    "id": 23,
+    "hoiID": 23,
+    "description": "Chính Tây: Diên Niên\r\n                Tây Nam: Sinh khí;\r\n                Tây Bắc: Phúc Đức;\r\n                Đông Bắc: Phục Vị;"
+  },
+  {
+    "id": 24,
+    "hoiID": 24,
+    "description": "Chính Tây: Phục Vị;\r\n                Tây Nam: Phúc Đức;\r\n                Tây Bắc: Sinh Khí"
+  },
+  {
+    "id": 25,
+    "hoiID": 25,
+    "description": "Chính Tây: Sinh Khí;\r\n                Chính Bắc: Phúc Đức;\r\n                Tây Nam: Diên Niên;\r\n                Tây Bắc: Phục Vị;"
+  },
+  {
+    "id": 26,
+    "hoiID": 26,
+    "description": "Chính Tây: Phúc Đức;\r\n                Tây Nam: Phục Vị;\r\n                Tây Bắc: Diên Niên;\r\n                Đông Bắc: Sinh Khí;"
+  },
+  {
+    "id": 27,
+    "hoiID": 27,
+    "description": "Chính Đông: Diên Niên;\r\n                Chính Nam: Phúc Đức;\r\n                Chính Bắc: Sinh Khí;\r\n                Đông Nam: Phục Vị;"
+  },
+  {
+    "id": 28,
+    "hoiID": 28,
+    "description": "Chính Đông: Phục Vị;\r\n                Chính Nam: Sinh Khí;\r\n                Chính Bắc: Phúc Đức;\r\n                Đông Nam: Diên Niên;"
+  },
+  {
+    "id": 29,
+    "hoiID": 29,
+    "description": "Chính Tây: Phúc Đức;\r\n                Tây Nam: Phục Vị;\r\n                Tây Bắc: Diên Niên;\r\n                Đông Bắc: Sinh Khí;"
+  },
+  {
+    "id": 30,
+    "hoiID": 30,
+    "description": "Chính Đông: phúc đức;\r\n                Chính Nam: Diên niên;\r\n                Đông Nam: Sinh khí;\r\n                Chính Bắc: Phục vị"
+  },
+  {
+    "id": 31,
+    "hoiID": 31,
+    "description": "Chính Đông: Sinh khí;\r\n                Chính Nam: Phục vị;\r\n                Chính Bắc: Diên niên;\r\n                Đông Nam: Phúc đức;\r\n                Đông Bắc: Họa Hại;"
+  },
+  {
+    "id": 32,
+    "hoiID": 32,
+    "description": "Chính Tây: Diên Niên;\r\n                Tây Nam: Phục Vị;\r\n                Đông Bắc: Sinh Khí;"
+  },
+  {
+    "id": 33,
+    "hoiID": 33,
+    "description": "Chính Tây: Diên Niên;\r\n                Tây Nam: Sinh Khí;\r\n                Tây Bắc: Phúc Đức; \r\n                Đông Bắc: Phục Vị;"
+  },
+  {
+    "id": 34,
+    "hoiID": 34,
+    "description": "Chính Tây: Sinh Khí;\r\n                Tây Nam: Phục Vị;\r\n                Tây Bắc: Phúc Đức;\r\n                Đông Bắc: Phục Vị;"
+  },
+  {
+    "id": 35,
+    "hoiID": 35,
+    "description": "Chính Tây: Phúc Đức;\r\n                Tây Nam: Phục Vị;\r\n                Đông Bắc: Sinh Khí;\r\n                Tây Bắc: Diên Niên;"
+  },
+  {
+    "id": 36,
+    "hoiID": 36,
+    "description": "Chính Đông: Diên Niên;\r\n                Chính Nam: Phúc Đức;\r\n                Chính Bắc: Sinh Khí;\r\n                Đông Nam: Phục Vị;"
+  },
+  {
+    "id": 37,
+    "hoiID": 37,
+    "description": "Chính Đông: Phục Vị;\r\n                Chính Nam: Sinh Khí;\r\n                Chính Bắc: Phúc Đức;\r\n                Đông Nam: Diên Niên;"
+  },
+  {
+    "id": 38,
+    "hoiID": 38,
+    "description": "Chính Đông: Phục Vị;\r\n                Tây Nam: Phúc Đức;\r\n                Tây Bắc: Diên Niên;\r\n                Đông Bắc: Sinh Khí;"
+  },
+  {
+    "id": 39,
+    "hoiID": 39,
+    "description": "Chính Đông: phúc đức;\r\n                Chính Nam: Diên niên;\r\n                Đông Nam: Sinh khí;\r\n                Chính Bắc: Phục vị"
+  },
+  {
+    "id": 40,
+    "hoiID": 40,
+    "description": "Chính Đông: Sinh Khí;\r\n                Chính Nam: Phục Vị;\r\n                Chính Bắc: Diên Niên;\r\n                Đông Nam: Phúc Đức;"
+  },
+  {
+    "id": 41,
+    "hoiID": 41,
+    "description": "Chính Tây: Diên Niên;\r\n                Tây Nam: Sinh Khí;\r\n                Tây Bắc: Phúc Đức; \r\n                Đông Bắc: Phục Vị;"
+  },
+  {
+    "id": 42,
+    "hoiID": 42,
+    "description": "Chính Tây: Phục Vị;\r\n                Tây Nam: Phúc Đức;\r\n                Tây Bắc: Sinh Khí;\r\n                Đông Bắc: Diên Niên;"
+  },
+  {
+    "id": 43,
+    "hoiID": 43,
+    "description": "Chính Tây: Sinh Khí;\r\n                Tây Nam: Diên Niên;\r\n                Tây Bắc: Phục Vị;"
+  },
+  {
+    "id": 44,
+    "hoiID": 44,
+    "description": "Chính Tây: Phúc Đức;\r\n                Tây Nam: Phục Vị;\r\n                Tây Bắc: Diên Niên;\r\n                Đông Bắc: Sinh Khí;"
+  },
+  {
+    "id": 45,
+    "hoiID": 45,
+    "description": "Chính Đông: Diên Niên;\r\n                Chính Nam: Phúc Đức;\r\n                Chính Bắc: Sinh Khí;\r\n                Đông Nam: Phục Vị;"
+  },
+  {
+    "id": 46,
+    "hoiID": 46,
+    "description": "Chính Đông: Phục Vị;\r\n                Chính Nam: Diên Niên;\r\n                Chính Bắc: Phúc Đức;\r\n                Đông Nam: Sinh Khí;"
+  },
+  {
+    "id": 47,
+    "hoiID": 47,
+    "description": "Chính Tây: Phúc Đức;\r\n                Tây Nam: Phục Vị;\r\n                Tây Bắc: Diên Niên;\r\n                Đông Bắc: Sinh Khí;"
+  },
+  {
+    "id": 48,
+    "hoiID": 48,
+    "description": "Chính Đông: phúc đức;\r\n                Chính Nam: Diên niên;\r\n                Đông Nam: Sinh khí;\r\n                Chính Bắc: Phục vị"
+  },
+  {
+    "id": 49,
+    "hoiID": 49,
+    "description": "Chính Tây: Ngũ Quỷ;\r\n                Chính Đông: Sinh Khí;\r\n                Chính Nam: Phục Vị;\r\n                Đông Nam: Phúc Đức;\r\n                Đông Bắc: Diên Niên;"
+  },
+  {
+    "id": 50,
+    "hoiID": 50,
+    "description": "Chính Tây: Diên Niên;\r\n                Tây Nam: Sinh Khí;\r\n                Tây Bắc: Phục Vị; \r\n                Đông Bắc: Phục Vị;"
+  },
+  {
+    "id": 51,
+    "hoiID": 51,
+    "description": "Chính Tây: Phục Vị;\r\n                Tây Nam: Phúc Đức;\r\n                Tây Bắc: Sinh Khí;\r\n                Đông Bắc: Diên Niên;"
+  },
+  {
+    "id": 52,
+    "hoiID": 52,
+    "description": "Chính Tây: Sinh Khí;\r\n                Chính Bắc: Phục Vị;\r\n                Đông Nam: Diên Niên;\r\n                Tây Bắc: Phục Vị;\r\n                Đông Bắc: Phúc Đức;"
+  },
+  {
+    "id": 53,
+    "hoiID": 53,
+    "description": "Chính Tây: Phúc Đức;\r\n                Tây Nam: Phục Vị;\r\n                Tây Bắc: Diên Niên;\r\n                Đông Bắc: Sinh Khí;"
+  },
+  {
+    "id": 54,
+    "hoiID": 54,
+    "description": "Chính Đông: Diên Niên;\r\n                Chính Nam: Phúc Đức;\r\n                Đông Nam: Phục Vị;\r\n                Tây Bắc: Diên Niên;\r\n                Đông Bắc: Sinh Khí;"
+  },
+  {
+    "id": 55,
+    "hoiID": 55,
+    "description": "Chính Đông: Phục Vị;\r\n                Chính Tây: Phúc Đức;\r\n                Đông Nam: Diên Niên;\r\n                Tây Nam: Phục Vị;\r\n                Tây Bắc: Diên Niên;\r\n                Đông Bắc: Sinh Khí\r\n                "
+  },
+  {
+    "id": 56,
+    "hoiID": 56,
+    "description": "Chính Tây: Phúc Đức;\r\n                Tây Nam: Phục Vị;\r\n                Tây Bắc: Diên Niên;\r\n                Đông Bắc: Sinh Khí;\r\n                Đông Nam: Ngũ Quỷ;"
+  },
+  {
+    "id": 57,
+    "hoiID": 57,
+    "description": "Chính Đông: phúc đức;\r\n                Chính Nam: Diên niên;\r\n                Đông Nam: Sinh khí;\r\n                Chính Bắc: Phục vị"
+  },
+  {
+    "id": 58,
+    "hoiID": 58,
+    "description": "Chính Đông: Sinh Khí;\r\n                Chính Nam: Phục Vị;\r\n                Chính Bắc: Diên Niên;\r\n                Đông Nam: Phúc Đức;"
+  },
+  {
+    "id": 59,
+    "hoiID": 59,
+    "description": "Chính Tây: Diên Niên;\r\n                Tây Nam: Sinh Khí;\r\n                Tây Bắc: Phúc Đức; \r\n                Đông Bắc: Phục Vị;"
+  },
+  {
+    "id": 60,
+    "hoiID": 60,
+    "description": "Chính Tây: Phục Vị;\r\n                Tây Nam: Phúc Đức;\r\n                Tây Bắc: Sinh Khí;\r\n                Đông Bắc: Diên Niên;"
+  }
+]

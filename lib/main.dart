@@ -1,7 +1,8 @@
 import 'package:flutter/material.dart';
+import 'package:mobile_giamkichsan/main/physiognomy-main.dart';
 
 void main() {
-  runApp(const MyApp());
+  runApp(PhysiognomyMain());
 }
 
 class MyApp extends StatelessWidget {
