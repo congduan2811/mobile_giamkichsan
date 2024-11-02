@@ -4,6 +4,7 @@ import 'package:intl/intl.dart';
 import 'package:mobile_giamkichsan/configuration/theme-custum.dart';
 import 'package:mobile_giamkichsan/controller-io/async-file-controller.dart';
 import 'package:mobile_giamkichsan/pages/physiognomy/besthour.dart';
+import 'package:mobile_giamkichsan/pages/physiognomy/horoscope.dart';
 import 'package:mobile_giamkichsan/pages/physiognomy/married.dart';
 import 'package:mobile_giamkichsan/pages/physiognomy/profile-person.dart';
 import 'package:mobile_giamkichsan/pages/physiognomy/weather-future.dart';
@@ -33,12 +34,11 @@ class _MainFulWidgetState extends State<MainFulWidget> {
   bool isAsync = false;
   List<Widget> listPage = [
     TheWeatherHome(),
-    // const PhysiognomyHome(),
     const ProfilePerson(),
-    Besthour(),
+    const Besthour(),
     const Married(),
     const WeatherFuture(),
-    PhysiognomyAsync(asyncFileController: AsyncFileController()),
+    const Horoscope(),
   ];
 
   @override
@@ -153,67 +153,6 @@ class _MainFulWidgetState extends State<MainFulWidget> {
           size: 40,
         ),
       ),
-    );
-  }
-}
-
-class PhysiognomyHome extends StatelessWidget {
-  const PhysiognomyHome({super.key});
-
-  @override
-  Widget build(BuildContext context) {
-    final df = DateFormat('dd-MM-yyyy');
-    return Container(
-        alignment: Alignment.centerLeft,
-        child: Column(
-          mainAxisAlignment: MainAxisAlignment.center,
-          children: [
-            Text(df.format(DateTime.now()),
-                style: const TextStyle(fontSize: 28, color: Colors.white)),
-            const SizedBox(
-              height: 17,
-            ),
-            const Text(
-              'Cuộc sống sang hay hèn, giàu hay nghèo là do ta. Phúc đức là do bản thân ta và người thân ta cùng nhau xây dựng.',
-              style: TextStyle(
-                  color: Color.fromARGB(255, 245, 96, 96), fontSize: 18),
-            ),
-            const Text(
-              'Edit by: Vũ Công Duân',
-              style: TextStyle(
-                color: Color.fromARGB(255, 248, 237, 140),
-                fontSize: 10,
-              ),
-            )
-          ],
-        ));
-  }
-}
-
-class PhysiognomyAsync extends StatelessWidget {
-  const PhysiognomyAsync({super.key, required this.asyncFileController});
-  final AsyncFileController asyncFileController;
-  @override
-  Widget build(BuildContext context) {
-    return FutureBuilder(
-      future: asyncFileController.updateFilePhysiognomy(),
-      initialData: null,
-      builder: (context, snapshot) {
-        if (snapshot.connectionState == ConnectionState.waiting) {
-          return const Center(
-            child: CircularProgressIndicator(),
-          );
-        }
-        if (!snapshot.hasData) {
-          return const Text('No data');
-        }
-        return const Center(
-          child: Text(
-            'Đã đồng bộ xong',
-            style: TextStyle(color: Colors.white, fontSize: 20),
-          ),
-        );
-      },
     );
   }
 }

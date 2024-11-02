@@ -1,3 +1,4 @@
+import 'package:mobile_giamkichsan/http/base-http.dart';
 import 'package:mobile_giamkichsan/io/best-hour-io.dart';
 import 'package:mobile_giamkichsan/io/cung-io.dart';
 import 'package:mobile_giamkichsan/io/dien-trach-io.dart';
@@ -6,8 +7,9 @@ import 'package:mobile_giamkichsan/io/tam-cung-dinh-io.dart';
 import 'package:mobile_giamkichsan/io/the-weather-io.dart';
 
 class AsyncFileController {
-  Future<bool> updateFilePhysiognomy() async {
+  Future<bool> updateFilePhysiognomy(String preUrl) async {
     try {
+      BaseHttp.preUrl = preUrl;
       var bestHour = BestHourIO();
       await bestHour.setGetAll();
       await bestHour.setBestHourHourTigerOfMonth();
