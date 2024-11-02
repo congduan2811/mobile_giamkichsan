@@ -30,23 +30,37 @@ class BestHourController {
     if (tigerHour.key == 0) {
       return bestHourControllerModel;
     }
+    List<String> hourGiap = [
+      "Tý",
+      "Sửu",
+      "Dần",
+      "Mão",
+      "Thìn",
+      "Tỵ",
+      "Ngọ",
+      "Mùi",
+      "Thân",
+      "Dậu",
+      "Tuất",
+      "Hợi"
+    ];
     DateTime dateMonth = DateTime.parse(tigerHour.value);
     int hourTy = dateMonth.hour - 4;
     int minuteTy = dateMonth.minute;
     int cal = int.parse(month) + int.parse(day) - 2;
-    for (int hour = 1; hour <= 12; hour++) {
+    for (int hour = 0; hour < 12; hour++) {
       switch ((cal + hour) % 6) {
         case 0:
           bestHourControllerModel.bestHourInDayDescription.add(
-              "Tiểu lợi: ${hourTy + (hour - 1) * 2}: $minuteTy -> ${hourTy + (hour) * 2}: $minuteTy");
+              "Tiểu lợi(${hourGiap[hour]}): ${hourTy + hour * 2}: $minuteTy -> ${hourTy + (hour + 1) * 2}: $minuteTy");
           break;
-        case 1:
+        case 2:
           bestHourControllerModel.bestHourInDayDescription.add(
-              "Đại an: ${hourTy + (hour - 1) * 2}: $minuteTy -> ${hourTy + (hour) * 2}: $minuteTy");
+              "Đại an(${hourGiap[hour]}): ${hourTy + hour * 2}: $minuteTy -> ${hourTy + (hour + 1) * 2}: $minuteTy");
           break;
-        case 3:
+        case 4:
           bestHourControllerModel.bestHourInDayDescription.add(
-              "Tốc hỉ: ${hourTy + (hour - 1) * 2}: $minuteTy -> ${hourTy + (hour) * 2}: $minuteTy");
+              "Tốc hỉ(${hourGiap[hour]}): ${hourTy + hour * 2}: $minuteTy -> ${hourTy + (hour + 1) * 2}: $minuteTy");
           break;
       }
     }
