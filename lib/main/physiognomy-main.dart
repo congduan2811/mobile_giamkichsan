@@ -8,7 +8,6 @@ import 'package:mobile_giamkichsan/pages/physiognomy/married.dart';
 import 'package:mobile_giamkichsan/pages/physiognomy/profile-person.dart';
 import 'package:mobile_giamkichsan/pages/physiognomy/weather-future.dart';
 import 'package:mobile_giamkichsan/pages/the_weather-home.dart';
-import 'package:provider/provider.dart';
 
 class PhysiognomyMain extends StatelessWidget {
   const PhysiognomyMain({super.key});
