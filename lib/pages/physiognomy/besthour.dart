@@ -33,6 +33,7 @@ class _BesthourHomeState extends State<BesthourHome> {
   TextEditingController thang = TextEditingController();
   TextEditingController nam = TextEditingController();
   TextEditingController timmer = TextEditingController();
+  DateTime timeIniti = DateTime.now();
   @override
   Widget build(BuildContext context) {
     return Container(
@@ -108,7 +109,7 @@ class _BesthourHomeState extends State<BesthourHome> {
                 DropdownMenuEntry(value: "29", label: "29"),
                 DropdownMenuEntry(value: "30", label: "30"),
               ],
-              initialSelection: "01",
+              initialSelection: timeIniti.day.toString(),
               label: Text('Ngày'),
               textStyle: TextStyle(color: Colors.black),
               controller: ngay,

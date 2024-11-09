@@ -13,7 +13,7 @@ class ProfilePerson extends StatelessWidget {
         padding: const EdgeInsets.all(2.0),
         child: Scaffold(
             appBar: AppBar(
-              title: Text('Xem giờ đẹp'),
+              title: Text('Xem Tử Vi'),
             ),
             body: ProfilePersionMain()));
   }

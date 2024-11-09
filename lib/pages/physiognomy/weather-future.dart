@@ -24,7 +24,7 @@ class WeatherFuture extends StatelessWidget {
         padding: const EdgeInsets.all(2.0),
         child: Scaffold(
             appBar: AppBar(
-              title: Text('Thoi tiet'),
+              title: Text('Thời Tiết'),
             ),
             body: WeatherFutureHome(
               months: months,
